@@ -1,0 +1,35 @@
+html{
+    background: url(imgs/space.jpg);
+    background-size: fill;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: rgb(255,255,255,0.65);
+    margin: auto;
+    text-align: center;
+    border-radius: 30px;
+    height: 600px;
+    width: 800px;
+}
+
+input{
+    width: 500px;
+}
+
+hr{
+    width: 700px;
+}
+
+#ball8:hover{
+    cursor:pointer;
+}
+
+#answertxt{
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#answerOut{
+    color: darkblue;
+}
